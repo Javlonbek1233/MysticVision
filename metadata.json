@@ -1,0 +1,6 @@
+{
+  "name": "MysticVision",
+  "description": "A magical, relaxing, and visually mesmerizing spiritual web experience featuring horoscopes, tarot card readings, zodiac guides, and an AI spiritual assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
